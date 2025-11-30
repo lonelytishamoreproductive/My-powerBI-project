@@ -20,5 +20,5 @@ Inventory/Production Planning: Optimize stock levels and manufacturing schedules
 Financial Forecasting: Use the time-series data to predict future revenue and sales volume. 
 Product Strategy: Quickly identify underperforming products for potential discontinuation or re-evaluation, as demonstrated by the Waterfall chart.
 - screenshots:
-- 
+- https://github.com/lonelytishamoreproductive/My-powerBI-project/blob/main/screenshot%20of%20powerbi%20dashboard.png
   
